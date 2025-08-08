@@ -5,6 +5,7 @@ class SearchPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Text("Search for Acts or Amendments"));
+    return const Center(child: Text("Search Feature "));
+    //fkp
   }
 }

@@ -1,2 +1,2 @@
-THIS IS MY FIRST FLUTTER PROJECT 
-CAMPUS PAY APP FOR PICT
+# Campus Pay App
+This is my first Flutter project—Campus Pay for PICT!
